@@ -1,0 +1,26 @@
+{
+  "name": "express_crash",
+  "version": "1.0.0",
+  "description": "A complete view of Express basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Egnoel/Express_Crash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Egnoel/Express_Crash/issues"
+  },
+  "homepage": "https://github.com/Egnoel/Express_Crash#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
