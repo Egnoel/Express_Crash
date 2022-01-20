@@ -5,3 +5,4 @@
 -> Static server/folder
 -> Routes
 ->Middleware
+->CRUD
