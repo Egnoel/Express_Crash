@@ -6,3 +6,4 @@
 -> Routes
 ->Middleware
 ->CRUD
+->HandleBars
